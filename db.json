@@ -1,0 +1,160 @@
+{
+    "alumnos": [
+      {
+        "firstName": "Diego",
+        "lastName": "Furrer",
+        "email": "diego@gmail.com",
+        "id": 1
+      },
+      {
+        "firstName": "Pilar",
+        "lastName": "Gomez",
+        "email": "pgomez@gmail.com",
+        "id": 3
+      },
+      {
+        "firstName": "Juan",
+        "lastName": "Perez",
+        "email": "jperez@gmail.com",
+        "id": 4
+      },
+      {
+        "firstName": "Felipe",
+        "lastName": "Romero",
+        "email": "fromero@gmail.com",
+        "id": 5
+      }
+    ],
+    "inscripciones": [
+      {
+        "alumno": 1,
+        "curso": 4,
+        "id": 1
+      },
+      {
+        "alumno": 1,
+        "curso": 6,
+        "id": 5
+      },
+      {
+        "alumno": 3,
+        "curso": 4,
+        "id": 6
+      },
+      {
+        "alumno": 3,
+        "curso": 2,
+        "id": 7
+      },
+      {
+        "alumno": 3,
+        "curso": 6,
+        "id": 8
+      },
+      {
+        "alumno": 1,
+        "curso": 3,
+        "id": 9
+      },
+      {
+        "alumno": 1,
+        "curso": 5,
+        "id": 10
+      },
+      {
+        "alumno": 4,
+        "curso": 2,
+        "id": 11
+      },
+      {
+        "alumno": 4,
+        "curso": 3,
+        "id": 12
+      },
+      {
+        "alumno": 4,
+        "curso": 4,
+        "id": 13
+      },
+      {
+        "alumno": 4,
+        "curso": 5,
+        "id": 15
+      },
+      {
+        "alumno": 4,
+        "curso": 6,
+        "id": 16
+      },
+      {
+        "alumno": 1,
+        "curso": 2,
+        "id": 17
+      },
+      {
+        "alumno": 3,
+        "curso": 3,
+        "id": 18
+      },
+      {
+        "alumno": 5,
+        "curso": 4,
+        "id": 19
+      },
+      {
+        "alumno": 5,
+        "curso": 2,
+        "id": 20
+      }
+    ],
+    "Cursos": [
+      {
+        "areaCurso": "C++",
+        "duracion": "24 meses",
+        "certificado": "No",
+        "id": 2
+      },
+      {
+        "areaCurso": "Python",
+        "duracion": "18 meses",
+        "certificado": "Si",
+        "id": 3
+      },
+      {
+        "areaCurso": "Backend",
+        "duracion": "12 meses",
+        "certificado": "Si",
+        "id": 4
+      },
+      {
+        "areaCurso": "Psicología",
+        "duracion": "24 meses",
+        "certificado": "Depende de la pasantía",
+        "id": 5
+      },
+      {
+        "areaCurso": "Angular",
+        "duracion": "12 meses",
+        "certificado": "Si",
+        "id": 6
+      }
+    ],
+    "usuarios": [
+      {
+        "id": 1,
+        "usuario": "Test",
+        "email": "test@gmail.com",
+        "password": "123",
+        "rol": "Usuario",
+        "token": "kmppl0jgmgmbejr7oclfch6owoxd4t5tb-f5kti54lpxgfe1otwg2nqpq9la6bhc9a"
+      },
+      {
+        "usuario": "Admin",
+        "email": "admin@gmail.com",
+        "password": "123",
+        "rol": "Administrador",
+        "token": "b6e2hvhanoaf92f3r6ubaboia3d4m14w8-nvyjpmftzwahptuff8vkvm8fu7if3ndo3",
+        "id": 2
+      }
+    ]
+  }
